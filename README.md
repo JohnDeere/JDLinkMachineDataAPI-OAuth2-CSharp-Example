@@ -23,7 +23,7 @@ This project gives a full native CSharp example of:
 * Once in the browser you will need a few things (Alternative option: update appsettings.json file directly) 
   * A ClientId and Secret from your application on https://developer.deere.com
 * Add Scopes
-  * Insert scopes, for example org1 org2. Can also be found under JDLink Machine Data API Documentation section within [https://developer.deere.com](https://developer.deere.com/) for each endpoint.
+  * Insert scopes, for example eq2 offline_access. Can also be found under JDLink Machine Data API Documentation section within [https://developer.deere.com](https://developer.deere.com/) for each endpoint.
 
 ## How to start this project  
 * Clone this repository:  
